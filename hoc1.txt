@@ -1,0 +1,732 @@
+    1  ls -l
+    2  ls 
+    3  ls - a
+    4  ls -a
+    5  pwd
+    6  clear
+    7  scp -i /mnt/c/users/yazura.shankhdhar/desktop/linux/yazura25.pem /.ssh/
+    8  history
+    9  clear
+   10  ls -l
+   11  ls -a
+   12  mkdir .ssh
+   13  ls -a
+   14  ls
+   15  ls -a
+   16  scp
+   17  cd ~
+   18  logout
+   19  ls -a
+   20  cd ..
+   21  ls -a
+   22  cd ..
+   23  cd mnt
+   24  cd c
+   25  cd users
+   26  cd yazura.shankhdhar
+   27  cd desktop
+   28  cd linux
+   29  ls -a
+   30  pwd
+   31  cd ~
+   32  scp -i /mnt/c/users/yazura.shankhdhar/desktop/linux/yazura25.pem /.ssh/
+   33  ls -a
+   34  cd .ssh
+   35  pwd
+   36  scp -i /mnt/c/users/yazura.shankhdhar/desktop/linux/yazura25.pem /home/yazura25/.ssh
+   37  cd ~
+   38  cd ..
+   39  scp -i /mnt/c/users/yazura.shankhdhar/desktop/linux/yazura25.pem /home/yazura25/.ssh
+   40  scp -i /mnt/c/users/yazura.shankhdhar/desktop/linux/yazura25.pem ~/.ssh
+   41  scp /mnt/c/users/yazura.shankhdhar/desktop/linux/yazura25.pem ~/.ssh
+   42  cd .ssh
+   43  cd yazura25
+   44  ls -a
+   45  cd home/yazura25/.ssh
+   46  ls -a
+   47  clear
+   48  cd ..
+   49  pwd
+   50  sudo apt-get install autossh
+   51  sudo adduser yazura25 sudo
+   52  logout
+   53  sudo apt-get install autossh
+   54  autossh -m -0 ec2-user@13.50.4.0
+   55  autossh -v ec2-user@https://blog.invgate.com/autossh
+   56  autossh -v ec2-user@13.50.4.0
+   57  ls -a
+   58  cd .ssh
+   59  ls -a
+   60  ssh
+   61  ssh -i yazura25.pem ec2-user@13.50.4.0
+   62  ls -l
+   63  chmod 400 yazura25.pem
+   64  ls -l
+   65  ssh -i yazura25.pem ec2-user@13.50.4.0
+   66  autossh -v ec2-user@13.50.4.0
+   67  autossh
+   68  autossh -m 2000 ec2-user@13.50.4.0
+   69  autossh -M 2000 ec2-user@13.50.4.0
+   70  cd ~
+   71  cd ..
+   72  autossh -M 2000 ec2-user@13.50.4.0
+   73  clear
+   74  ls -l ~./sh
+   75  ls -l ~./ssh
+   76  cd ..
+   77  ls -l
+   78  cd home
+   79  ls -l
+   80  ls- a
+   81  ls -a
+   82  cd yazura25
+   83  ls -l ~./ssh
+   84  ls -l ~./.ssh
+   85  ls -l ~/.ssh
+   86  autossh -M 2000 -i ~/.ssh/yazura25.pem ec2-user@13.50.4.0
+   87  ssh 
+   88  autossh -M 2000 -i ~/.ssh/yazura25.pem ec2-user@13.50.4.0
+   89  ls -a
+   90  cd .ssh
+   91  ls -a
+   92  mkdir config
+   93  vi config
+   94  ls
+   95  ls -a
+   96  cd .ssh
+   97  cd config
+   98  cd ..
+   99  ls -a
+  100  cd onfig
+  101  cd config
+  102  ls -a
+  103  cd ..
+  104  ls -a
+  105  rmdir config
+  106  ls -l
+  107  ls -a 
+  108  cd ~
+  109  ls -a
+  110  cd ..
+  111  ls -a
+  112  cd etc
+  113  ls -a
+  114  cd ..
+  115  sudo nano /etc/systemd/system/autossh.service
+  116  ls -a
+  117  cd etc/systemd/system
+  118  ls -a
+  119  cd ~
+  120  ls -a
+  121  ssh-keygen -t rsa -b 2048 -C "Your comment for the public key"
+  122  ls -a
+  123  cd .ssh
+  124  ls -a
+  125  cd id_rsa
+  126  id_rsa
+  127  ssh-add id_rsa
+  128  autossh -M 2000 -i ~/.ssh/yazura25.pem ec2-user@13.50.4.0
+  129  ssh-add yazura25.pem
+  130  chmod 600 ~/.ssh/id_rsa
+  131  ssh-copy-id -i ~/.ssh/id_rsa.pub ec2-user@13.50.4.0
+  132  cat ~/.ssh/id_rsa.pub
+  133  ssh -i ~/.ssh/yazura25.pem ec2-user@13.50.4.0
+  134  ssh -i ~/.ssh/id_rsa ec2-user@13.50.4.0
+  135  ls -a
+  136  cd ~
+  137  ls -a
+  138  cd .vim
+  139  ls -a
+  140  cd ..
+  141  cd~
+  142  cd ~
+  143  pwd
+  144  logout
+  145  ssh ec2-user@13.50.4.0
+  146  clear
+  147  ssh ec2-user@13.50.4.0
+  148  ls -a
+  149  cd .ssh
+  150  ls -a
+  151  cat id_rsa
+  152  ssh ec2-user@13.50.4.
+  153  ssh ec2-user@13.50.4.0
+  154  cd ..
+  155  ls -a
+  156  cd .vim
+  157  ls -a
+  158  cd ..
+  159  ls a-a
+  160  ls -a
+  161  clear
+  162  cd .ssh
+  163  vim config
+  164  ls -a
+  165  config
+  166  touch config
+  167  ls -a\
+  168  ls -a
+  169  touch config
+  170  ls -a
+  171  ssh aws
+  172  vim config
+  173  vim -x config
+  174  ssh aws
+  175  vim config
+  176  vim -X config
+  177  vim config
+  178  vim -X config
+  179  vim config
+  180  ssh aws
+  181  exit
+  182  clear
+  183  ls -a
+  184  cd tasks
+  185  ls =a
+  186  ls -a
+  187  cd n
+  188  ls -a
+  189  cd task
+  190  ls -a
+  191  ls -l
+  192  nano task
+  193  vim task
+  194  nano task
+  195  mv task.txt task.sh
+  196  mv task task.sh
+  197  ls -a
+  198  nano task.sh
+  199  ls -l
+  200  clear
+  201  nano task.sh
+  202  ls -l
+  203  chmod 700 task.sh
+  204  ls -l
+  205  nano input.txt
+  206  ls -a
+  207  task.sh
+  208  ./task.sh
+  209  nano task.sh
+  210  ./task.sh
+  211  touch output.txt
+  212  ls -a
+  213  ./task.sh
+  214  nano task.sh
+  215  ./task.sh
+  216  nano task.sh
+  217  ./task.sh
+  218  nano task.sh
+  219  ls -a
+  220  cat output.txt
+  221  cat input.txt
+  222  nano task.sh
+  223  ./task.sh
+  224  nano task.sh
+  225  ./task.sh
+  226  ls -a
+  227  ./task.sh
+  228  ls -l ./task.sh
+  229  chmod +x ./task.sh
+  230  ls -l
+  231  ./task.sh
+  232  task.sh
+  233  bash ./task.sh
+  234  ls -a
+  235  nano output.txt
+  236  bash ./task.sh
+  237  ls -a
+  238  nano output.sh
+  239  clear
+  240  nano task.sh
+  241  ls -l
+  242  ls -a
+  243  rm output.sh
+  244  rm output.txt
+  245  ls -a
+  246  bash ./.task.sh
+  247  bash ./task.sh
+  248  ls -a
+  249  cat output.txt
+  250  nano task.sh
+  251  clear
+  252  bash ./task.sh
+  253  cat output.txt
+  254  nano task.sh
+  255  clear
+  256  ls -a
+  257  rm output.txt
+  258  bash ./task.sh
+  259  cat output.txt
+  260  cat tmp.txt
+  261  cat tmp
+  262  ls -a
+  263  cd ~
+  264  ls -a
+  265  cd ..
+  266  ls -a
+  267  cd ..
+  268  ls -a
+  269  cd tmp
+  270  ls- a
+  271  ls -a
+  272  rm -r tmp.3MFse8hsBS tmp.Pu0ayAnOix tmp.Twg5bXsr0d tmp.whGFx525HB
+  273  ls -a
+  274  clear
+  275  nano task.sh
+  276  ls -a
+  277  cd ~
+  278  cd yazura25
+  279  ls -a
+  280  cd tasks
+  281  cd n
+  282  ls -a
+  283  clear
+  284  nano task.sh
+  285  ls -a
+  286  bash ./task.sh
+  287  nano task.sh
+  288  ls -a
+  289  bash ./task.sh
+  290  ls -a
+  291  find . -name 'temp.txt'
+  292  find . -name "temp.txt"
+  293  nano task.sh
+  294  clear
+  295  bash ./task.sh
+  296  ls -a
+  297  cat temp.txt
+  298  nano temp.txt
+  299  ls -l
+  300  nano temp.txt
+  301  nano task.sh
+  302  cleaar
+  303  clear
+  304  ls -a
+  305  ls -l
+  306  rm temp.txt
+  307  bash ./task.sh
+  308  nano temp.txt
+  309  clear
+  310  touch output.txt
+  311  bash ./task.sh
+  312  ls -a
+  313  cat output.txt
+  314  nano task.sh
+  315  bash ./task.sh
+  316  cat output.txt
+  317  clear
+  318  ls -a
+  319  cat temp.txt
+  320  nano task.sh
+  321  ls -l
+  322  nano task.sh
+  323  clear
+  324  ls -a
+  325  rm temp.tx
+  326  rm temp.txt
+  327  clear
+  328  bash ./task.sh
+  329  cat temp.txt
+  330  nano temp.txt
+  331  nano task.txt
+  332  ls -a
+  333  nano task.sh
+  334  clear
+  335  ls -a
+  336  clear
+  337  cd ..
+  338  ls -a
+  339  clear
+  340  ls -a
+  341  cd n
+  342  nano task.sh
+  343  clear
+  344  cd ..
+  345  ls -a
+  346  mkdir o
+  347  ls -a
+  348  clean
+  349  clear
+  350  ls -a
+  351  ssh ec2-user@56.228.3.82
+  352  ls -a
+  353  cd n
+  354  ls -a
+  355  nano task.sh
+  356  clear
+  357  cd ~
+  358  cd ..
+  359  ls -a
+  360  cd ..
+  361  $ sudo apt update && sudo apt install cron
+  362  sudo apt update && sudo apt install cron
+  363  apt list --upgradable
+  364  apt upgrade
+  365  sudo apt upgrade
+  366  clear
+  367  exit
+  368  clear
+  369  ssh-keygen -t rsa -b 4096
+  370  clear
+  371  cd .ssh
+  372  ls -a
+  373  cd ..
+  374  ls -a
+  375  rm -r id_rsa_git.pub id_rsa_git
+  376  clear
+  377  cd .ssh
+  378  ls -a
+  379  ssh-keygen -t rsa -b 4096
+  380  clear
+  381  ls -a
+  382  clear
+  383  ls -a
+  384  ssh-add -l
+  385  ssh-add id_rsa id_rsa_git
+  386  ls -a
+  387  ssh-add -l
+  388  ssh-add -a
+  389  clear
+  390  cat id_rsa_git.pub
+  391  ls -a
+  392  cd..
+  393  cd ..
+  394  ls -a
+  395  clear
+  396  ls -a
+  397  cd .vim
+  398  ls -a
+  399  cd ..
+  400  ls -a
+  401  mkdir git_repo
+  402  ls -a
+  403  cd git_repo/
+  404  ls -a
+  405  clear
+  406  git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+  407  ls -a
+  408  cd hoc
+  409  ls -a
+  410  cd ..
+  411  clear
+  412  ls -a
+  413  cd git_repo
+  414  ls -a
+  415  cd hoc
+  416  ls -a
+  417  touch test.txt
+  418  ls -a
+  419  nano test.txt
+  420  ls -a
+  421  clear
+  422  git add .
+  423  ls -a
+  424  git commit -m "test commit"
+  425  ls -a
+  426  git push
+  427  ls -a
+  428  clear
+  429  ls -a
+  430  cd ..
+  431  ls -a
+  432  cd tasks
+  433  o
+  434  cd 
+  435  cd o
+  436  ls -a
+  437  cd tasks
+  438  cd o
+  439  ls -a
+  440  clear
+  441  nano hoc.sh
+  442  ls -a
+  443  touch test.txt
+  444  ls -a
+  445  touch test.txt
+  446  ls -a
+  447  clear
+  448  rm test.txt
+  449  ls -a
+  450  nano hoc.sh
+  451  cd ~
+  452  ls -a
+  453  sudo apt install syssat
+  454  sudo apt update
+  455  sar -v
+  456  sudo apt install sysstat
+  457  clear
+  458  cd .ssh
+  459  cd ..
+  460  cd tasks
+  461  cd o
+  462  nano hoc.sh
+  463  cd ~
+  464  ls -a
+  465  cd ..
+  466  ls -a
+  467  cd ..
+  468  cat /etc/crontab
+  469  service cron status
+  470  service cron start
+  471  clear
+  472  service cron status
+  473  crontab -l
+  474  cd home/yazura25/tasks/o
+  475  ls -a
+  476  clear
+  477  ls -a
+  478  cd ~
+  479  ls -a
+  480  cd git_repo
+  481  ls -a
+  482  cd hoc
+  483  ls -a
+  484  cd ~
+  485  ls -a
+  486  cd tasks/o/hoc.sh
+  487  cd tasks/o/
+  488  nano hoc.sh
+  489  clear
+  490  history 100
+  491  488
+  492  history nano hoc.sh
+  493  nano hoc.sh
+  494  sar -u -r 
+  495  sat -u -r
+  496  nano hoc.sh
+  497  sar
+  498  sar -r -u
+  499  rpm -qa | grep sysstat   # For Red Hat-based distros
+  500  dpkg -l | grep sysstat   # For Debian-based distros (like Ubuntu)
+  501  sudo nano /etc/default/sysstat
+  502  sudo systemctl restart sysstat
+  503  sar -r -u
+  504  clear
+  505  ls -a
+  506  nano hoc.sh
+  507  crontab -e
+  508  service cron
+  509  crojob
+  510  cronjob
+  511  crontab -l
+  512  clear
+  513  ls -a
+  514  bash ./hoc.sh
+  515  nano hoc.sh
+  516  bash ./hoc.sh
+  517  nano hoc.sh
+  518  bash ./hoc.sh
+  519  clear
+  520  cd ~
+  521  cd home 
+  522  cd tasks
+  523  cd ..
+  524  cd git_repo
+  525  cf hoc
+  526  cd hoc
+  527  ls -a
+  528  cat hoc1.txt
+  529  cat hoc2.txt
+  530  git add .
+  531  git commit -m ""
+  532  git commit -m " "
+  533  git commit -m "Commit"
+  534  nano hoc.sh
+  535  ls -a
+  536  cd ..
+  537  cd tasks
+  538  cd o
+  539  cd hoc
+  540  nano hoc.sh
+  541  clear
+  542  crontab -l
+  543  clear
+  544  bash ./hoc.sh
+  545  git push
+  546  cd ..
+  547  cd git_repo
+  548  cd hoc
+  549  git push
+  550  cd ..
+  551  cd tasks
+  552  cd o
+  553  bash ./hoc.sh
+  554  clear
+  555  nano hoc.sh
+  556  ls -l
+  557  chmod +x hoc.sh
+  558  ls -l
+  559  clear
+  560  crontab -e
+  561  clear
+  562  bash ./hoc.sh
+  563  clear
+  564  nano hoc.sh
+  565  history
+  566  clear
+  567  bash ./hoc.sh
+  568  crontab -l
+  569  ps -ef | grep cron
+  570  crontab -e
+  571  crontab -l
+  572  clear
+  573  ls -la /etc/cron.hourly
+  574  sudo service cron status
+  575  grep hoc.sh /var/log/syslog
+  576  grep "your_script_name" /var/log/syslog
+  577  logout
+  578  cd taks
+  579  cd tasks
+  580  cd o
+  581  cat hoc1.txt
+  582  cat hoc2.txt
+  583  cd 
+  584  cd ..
+  585  cd yazura25
+  586  cd git_repo
+  587  cd hoc
+  588  ls -a
+  589  cat hoc1.txt
+  590  cat hoc2.txt
+  591  clear
+  592  ls -a
+  593  cat hoc2.txt
+  594  cd ..
+  595  cd..
+  596  cd ..
+  597  cd tasks
+  598  cd o
+  599  cat hoc2.txt
+  600  nano hoc.sh
+  601  crontab -e
+  602  crontab -l
+  603  clear
+  604  bash ./hoc.sh
+  605  nano hoc.sh
+  606  ssh -T git@github.com
+  607  ssh: connect to host github.com port 22: Connection timed out
+  608  ssh -T git@github.com:yazura-shankhdhar-1393
+  609  ssh -T git@github.com:yazura-shankhdhar-1393/hoc.git
+  610  ssh -T
+  611  ssh -T git@github.com:yazura-shankhdhar-1393
+  612  ssh -T git@github.com:yazura-shankhdhar-1393/
+  613  ssh -T git@github.com
+  614  cd ..
+  615  ls -a
+  616  cd .ssh
+  617  cd ..
+  618  cat hoc1.txt
+  619  cat hoc2.txt
+  620  rm -r hoc1.txt hoc2.txt
+  621  cd .ssh
+  622  ssh -T git@github.com
+  623  ssh -vT git@HOSTNAME
+  624  hostname
+  625  cd ..
+  626  ls -a
+  627  cd git_repo
+  628  ls -a
+  629  git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+  630  cd ..
+  631  git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+  632  cd ..
+  633  ls -a
+  634  cd yazura25
+  635  ls -a
+  636  cd .ssh
+  637  ls -a
+  638  cat id_rsa_git.pub
+  639  ssh -vT git@github.com
+  640  ssh -T git@github.com
+  641  clear
+  642  ls -a
+  643  rm -r id_rsa_git id_rsa_git.pub
+  644  ls -a
+  645  ssh-keygen -b 4096
+  646  ls -a
+  647  cat id_rsa_git.pub
+  648  ls -a
+  649  clear
+  650  ls -a
+  651  rm -r id_rsa_git id_rsa_git.pub
+  652  ssh-keygen -t rsa -b 4096 -C yazura.shankhdhar@bizacuity.com
+  653  cat id_rsa_git.pub
+  654  clear
+  655  cd ..
+  656  cd tasks
+  657  cd o
+  658  ls -a
+  659  bash ./hoc.sh
+  660  git init
+  661  git remote add origin git@github.com:yazura-shankhdhar-1393/hoc.git
+  662  vi hoc.sh
+  663  cd ..
+  664  ls -a
+  665  cd ..
+  666  ls -a
+  667  cd git_repo
+  668  git init
+  669  ls -a
+  670  cd ..
+  671  cd tasks
+  672  cd o
+  673  bash ./hoc.sh
+  674  cd ..
+  675  cd..
+  676  cd ..
+  677  ls -a
+  678  cd git_repo
+  679  ls -a
+  680  git remote add origin git@github.com:yazura-shankhdhar-1393/hoc.git
+  681  ls -a
+  682  git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+  683  git add .
+  684  cd hoc
+  685  git add .
+  686  git push
+  687  cd ..
+  688  cd git_repo
+  689  ls -a
+  690  cd hoc
+  691  git remote set-url origin git@github.com:username/reponame.git
+  692  git remote set-url origin git@github.com:yazura-shankhdhar-1393/hoc.git
+  693  ls -a
+  694  cat hoc1.txt
+  695  git add .
+  696  git commit -m "Hello"
+  697  touch try.txt
+  698  git add .
+  699  git commit -m "Hello"
+  700  git push
+  701  ssh-add /home/yazura25/.ssh/id_rsa_git
+  702  Start-Service ssh-agent
+  703  Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+  704  ssh-add -l
+  705  cd..
+  706  cd ~
+  707  ssh-add -l
+  708  clear
+  709  crontab -3
+  710  crontab -e
+  711  cron services
+  712  history
+  713  service cron
+  714  service cron status
+  715  clear
+  716  cd tasks
+  717  cd o
+  718  ls -a
+  719  rm .git
+  720  rmdir .git
+  721  cd .git
+  722  ls -a
+  723  cd ..
+  724  rmdir .git
+  725  rmdir -r .git
+  726  rmd -r .git
+  727  rm -r .git
+  728  clear
+  729  ls -a
+  730  bash ./hoc.sh
+  731  nano hoc.sh
+  732  history > hoc1.txt
