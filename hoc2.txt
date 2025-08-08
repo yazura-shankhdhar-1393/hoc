@@ -1,0 +1,3 @@
+Linux 6.6.87.2-microsoft-standard-WSL2 (BizAct210) 	08/08/25 	_x86_64_	(12 CPU)
+
+07:10:57     LINUX RESTART	(12 CPU)
