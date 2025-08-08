@@ -575,3 +575,208 @@ sudo service cron status
 grep hoc.sh /var/log/syslog
 grep "your_script_name" /var/log/syslog
 logout
+cd taks
+cd tasks
+cd o
+cat hoc1.txt
+cat hoc2.txt
+cd 
+cd ..
+cd yazura25
+cd git_repo
+cd hoc
+ls -a
+cat hoc1.txt
+cat hoc2.txt
+clear
+ls -a
+cat hoc2.txt
+cd ..
+cd..
+cd ..
+cd tasks
+cd o
+cat hoc2.txt
+nano hoc.sh
+crontab -e
+crontab -l
+clear
+bash ./hoc.sh
+nano hoc.sh
+ssh -T git@github.com
+ssh: connect to host github.com port 22: Connection timed out
+ssh -T git@github.com:yazura-shankhdhar-1393
+ssh -T git@github.com:yazura-shankhdhar-1393/hoc.git
+ssh -T
+ssh -T git@github.com:yazura-shankhdhar-1393
+ssh -T git@github.com:yazura-shankhdhar-1393/
+ssh -T git@github.com
+cd ..
+ls -a
+cd .ssh
+cd ..
+cat hoc1.txt
+cat hoc2.txt
+rm -r hoc1.txt hoc2.txt
+cd .ssh
+ssh -T git@github.com
+ssh -vT git@HOSTNAME
+hostname
+cd ..
+ls -a
+cd git_repo
+ls -a
+git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+cd ..
+git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+cd ..
+ls -a
+cd yazura25
+ls -a
+cd .ssh
+ls -a
+cat id_rsa_git.pub
+ssh -vT git@github.com
+ssh -T git@github.com
+clear
+ls -a
+rm -r id_rsa_git id_rsa_git.pub
+ls -a
+ssh-keygen -b 4096
+ls -a
+cat id_rsa_git.pub
+ls -a
+clear
+ls -a
+rm -r id_rsa_git id_rsa_git.pub
+ssh-keygen -t rsa -b 4096 -C yazura.shankhdhar@bizacuity.com
+cat id_rsa_git.pub
+clear
+cd ..
+cd tasks
+cd o
+ls -a
+bash ./hoc.sh
+git init
+git remote add origin git@github.com:yazura-shankhdhar-1393/hoc.git
+vi hoc.sh
+cd ..
+ls -a
+cd ..
+ls -a
+cd git_repo
+git init
+ls -a
+cd ..
+cd tasks
+cd o
+bash ./hoc.sh
+cd ..
+cd..
+cd ..
+ls -a
+cd git_repo
+ls -a
+git remote add origin git@github.com:yazura-shankhdhar-1393/hoc.git
+ls -a
+git clone git@github.com:yazura-shankhdhar-1393/hoc.git
+git add .
+cd hoc
+git add .
+git push
+cd ..
+cd git_repo
+ls -a
+cd hoc
+git remote set-url origin git@github.com:username/reponame.git
+git remote set-url origin git@github.com:yazura-shankhdhar-1393/hoc.git
+ls -a
+cat hoc1.txt
+git add .
+git commit -m "Hello"
+touch try.txt
+git add .
+git commit -m "Hello"
+git push
+ssh-add /home/yazura25/.ssh/id_rsa_git
+Start-Service ssh-agent
+Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+ssh-add -l
+cd..
+cd ~
+ssh-add -l
+clear
+crontab -3
+crontab -e
+cron services
+history
+service cron
+service cron status
+clear
+cd tasks
+cd o
+ls -a
+rm .git
+rmdir .git
+cd .git
+ls -a
+cd ..
+rmdir .git
+rmdir -r .git
+rmd -r .git
+rm -r .git
+clear
+ls -a
+bash ./hoc.sh
+nano hoc.sh
+history > hoc1.txt
+cat ho1.txt
+cat hoc1.txt
+clear
+nano hoc.sh
+clear
+ls -a
+bash ./hoc.sh
+clear
+ls -a
+cd ..
+ls -a
+cd ..
+cd git_repo
+ls -a
+cd hoc
+ls -a
+cd ..
+ls -a
+clear
+crontab -e
+clear
+cat /tmp/hoc_debug.log
+ls -a
+cd ..
+ls -a
+cd ..
+ls -a
+cat /tmp/hoc_debug.log
+cat tmp/hoc_debug.log
+cat ./tmp/hoc_debug.log
+cd tmp
+ls -a
+cd ..
+cat /tmp/hoc_debug.log
+cat /tmp/hoc.log
+clear
+cd home
+cd yazura25
+ls -a
+crontab -e
+cd home
+cd ..
+cat /tmp/hoc.log
+cd home/yazura25/tasks/o
+nano hoc.sh
+clear
+nano hoc.sh
+clear
+history
+history -a
