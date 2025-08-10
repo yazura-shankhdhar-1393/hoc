@@ -1,10 +1,10 @@
 Linux 6.6.87.2-microsoft-standard-WSL2 (BizAct210) 	08/10/25 	_x86_64_	(12 CPU)
 
 17:05:01        CPU     %user     %nice   %system   %iowait    %steal     %idle
-17:04:42        all      0.08      0.00      0.33      0.08      0.00     99.50
-Average:        all      0.08      0.00      0.33      0.08      0.00     99.50
+17:05:02        all      0.08      0.00      0.42      0.25      0.00     99.25
+Average:        all      0.08      0.00      0.42      0.25      0.00     99.25
 Linux 6.6.87.2-microsoft-standard-WSL2 (BizAct210) 	08/10/25 	_x86_64_	(12 CPU)
 
-17:04:42    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty
-17:04:43      6755824   7409504    326088      4.09    157844    616696    640344      6.36    592188    273728      7460
-Average:      6755824   7409504    326088      4.09    157844    616696    640344      6.36    592188    273728      7460
+17:05:02    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty
+17:05:03      6759432   7413444    322124      4.04    158132    616724    640352      6.36    592520    273704      7472
+Average:      6759432   7413444    322124      4.04    158132    616724    640352      6.36    592520    273704      7472
